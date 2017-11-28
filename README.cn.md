@@ -2,7 +2,7 @@
 
 fabric explorer 是帮助大家学习、管理、监控fabric 的开源项目。
 
-[English document](https://github.com/hyperledger/blockchain-explorer/blob/master/fabric-explorer/README.md)
+[English document](https://github.com/hyperledger/blockchain-explorer/blob/master/README.md)
 
 ## Demo
 [See live demo here](http://112.124.115.82:8800/)
